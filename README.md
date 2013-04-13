@@ -1,6 +1,6 @@
-# Fluid
-[Fluid](http://www.fluidapp.com/) Turn Your Favorite Web Apps into Real
-Mac Apps.
+# Fluid Puppet Module for Boxen [![Build Status](https://travis-ci.org/boxen/puppet-fluid.png)](https://travis-ci.org/boxen/puppet-fluid)
+
+Install [Fluid](http://www.fluidapp.com/), a tool that lets you create a Real Mac App (or "Fluid App") out of any website or web application, effectively turning your favorite web apps into OS X desktop apps.
 
 ## Usage
 

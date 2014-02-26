@@ -5,11 +5,9 @@
 #  include fluid
 class fluid {
 
-  $version = '1.7.2'
-
-  package { "Fluid-${version}":
+  package { 'Fluid-1.7.2':
     provider => 'compressed_app',
-    source   => "http://www.fluidapp.com/dist/Fluid_${version}.zip"
+    source   => 'http://www.fluidapp.com/dist/Fluid_1.7.2.zip'
   }
 
 }

@@ -5,7 +5,7 @@
 #  include fluid
 class fluid {
 
-  $version = '1.6.1'
+  $version = '1.7.2'
 
   package { "Fluid-${version}":
     provider => 'compressed_app',
